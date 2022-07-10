@@ -1,6 +1,7 @@
 {
-  "name": "deep-thoughts",
-  "version": "1.0.0",
+  "name": "deep-thoughts-client",
+  "version": "0.1.0",
+  "private": true,
   "proxy": "http://localhost:3001/",
   "dependencies": {
     "@apollo/client": "^3.3.16",
